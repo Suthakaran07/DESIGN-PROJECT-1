@@ -1,0 +1,48 @@
+Module1:
+ABSTRACT:
+Li-Fi (Light Fidelity) is an emerging wireless communication technology that utilizes 
+
+visible light to transmit data. It provides high-speed, secure, and efficient data transfer by 
+
+modulating light intensity to encode data. This technology offers a promising alternative 
+
+to traditional Wi-Fi by leveraging the vast spectrum of visible light, which is relatively 
+
+underutilized compared to radio waves. Li-Fi provides benefits such as higher data transfer 
+
+rates, improved security due to line-of-sight communication, and reduced size component
+
+interference, making it ideal for environments where radio frequency-based 
+
+communication may face limitations. The technology employs LEDs as the light source for 
+
+data transmission and photodiodes for reception, enabling faster and more energy efficient 
+
+communication. This paper explores the principles, advancements, and applications of LiFi technology, highlighting its potential in fields such as healthcare, automotive, and smart 
+
+cities
+MODULE 2
+ABSTRACT:
+A piezoelectric-based visitor sensing welcome mat is an innovative solution that utilizes 
+
+piezoelectric sensors to detect and respond to the presence of individuals. These mats are 
+
+equipped with piezoelectric materials that generate an electrical charge when subjected to 
+
+pressure, allowing them to detect footsteps or other physical interactions. The primary 
+
+application of such a system is in automating welcome messages or actions triggered by 
+
+the entry of visitors into a designated area. This technology is particularly useful for smart 
+
+homes, retail environments, or security systems, where it can serve as an unobtrusive and 
+
+reliable means of detecting foot traffic. The piezoelectric sensors embedded within the mat 
+
+convert mechanical energy into electrical signals, which are processed to determine the 
+
+presence, weight, and even the number of individuals stepping onto the mat. The ability to 
+
+integrate these mats with other smart systems enables a wide range of possibilities, from 
+
+greeting visitors with personalized messages to activating security protocols. 
